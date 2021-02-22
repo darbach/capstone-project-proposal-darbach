@@ -9,7 +9,7 @@ titles_from_headings:
 # Modify the contents below for the specific project.
 
 title: "Virtual Navigator"       # Write the project title inside the quotes.
-description: "A Google-powered, augmented reality navigation map."  # Write the project description inside the quotes
+description: "An OpenStreetMap-powered, augmented reality navigation map."  # Write the project description inside the quotes
 author:                                  # Don't do anything with this line!
   name: "Daniel Arbach"                  # Write your name inside the quotes.
 

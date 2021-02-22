@@ -17,37 +17,39 @@ and distance to your destination.
 ## Client component
 
 * **Functionality**
-
+  
+  * OAuth with Google sign-in.
   * Display an overlay virtual destination marker and route line on the phone camera.
   * Search for destinations.
-  * Load saved locations from a Google Maps account.
-  * Save destinations into a Google Maps account.
+  * Get location data from OpenStreetMap.
+  * Get route data from OpenRouteService.
 
 * **Persistent data**
 
-  * A history of searched and visited locations.
+  * N/A
     
 * **Device/external services**
 
-  * Google Maps
-    * [Google Maps SDK](https://developers.google.com/maps/documentation/android-sdk/overview)
-    * [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview?hl=tr)
+  * OpenStreetMap
+    * [OpenStreetMap Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
+    * [OpenRouteService API](https://openrouteservice.org/dev/#/api-docs)
   
     
 ## Server component
 
 * **Functionality**
   
-  * Get data from Google Maps and pass it to the client as JSON.
+  * N/A
 
 * **Persistent data**
-
-  * Save a history of searched and visited locations.
+  
+  * User profile.
+  * Save favorite locations with a descriptive name and notes.
+  * Save a history of searches.
     
 * **External services**
-
-  * [Google Maps API](https://developers.google.com/maps/documentation/android-sdk/overview)
-  * [Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview?hl=tr)
+  
+  * N/A
     
 ## Stretch goals/possible enhancements 
 
