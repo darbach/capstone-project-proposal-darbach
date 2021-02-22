@@ -1,3 +1,3 @@
-# Capstone project proposal template
+# Virtual Navigator
 
-This is a project template for the proposal phase of the capstone project in the [Deep Dive Coding](https://deepdivecoding.com/) [Java + Android bootcamp](https://deepdivecoding.com/java-android/).
+A Google-powered, augmented reality navigation map. Using your device camera, this app overlays route data to give you a better sense of direction and distance to your destination.
