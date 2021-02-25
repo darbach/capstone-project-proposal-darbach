@@ -46,7 +46,7 @@ and distance to your destination.
 * **Persistent data**
   
   * User profile.
-  * Save favorite locations with a descriptive name and notes.
+  * Save favorite locations with a descriptive name.
   * Save a history of searches.
   * Location-share invitations between users
     
@@ -58,7 +58,5 @@ and distance to your destination.
     
 ## Stretch goals/possible enhancements 
 
-* Display location information for markers (e.g. business hours, phone #, reviews)
-* Add personal notes to markers
-* Share route progress through standard Google Maps with friends/family who may want to track your location.
+* Add personal notes to markers.
 
