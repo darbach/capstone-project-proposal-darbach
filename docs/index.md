@@ -3,8 +3,16 @@
 Using your device camera, this augmented reality app overlays route data to give you a better sense of direction
 and distance to your destination.
 
-## Intended users
+Users may:
 
+* Search for locations to display on a 2-D flat map.
+* Search for road travel routes between two locations.
+* See their searched locations as markers overlayed onto their smartphone camera view.
+* See their searched travel route as a line or arrow overlaid onto the street through their smartphone camera view.
+* Save locations for quick access.
+* Invite other users to view their location and optionally travel routes in real-time.
+
+## Intended users
 
 * A driver who has an easier time following an augmented reality map.
 
