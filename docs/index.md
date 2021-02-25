@@ -30,7 +30,7 @@ and distance to your destination.
   * History of searches, matching table on the server for portability between devices.
     
 * **Device/external services**
-
+  * Location services
   * OpenStreetMap
     * [OpenStreetMap Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
     * [OpenRouteService API](https://openrouteservice.org/dev/#/api-docs)
