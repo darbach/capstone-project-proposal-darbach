@@ -23,6 +23,7 @@ and distance to your destination.
   * Search for destinations.
   * Get location data from OpenStreetMap.
   * Get route data from OpenRouteService.
+  * Invite other users to view real-time location and route.
 
 * **Persistent data**
 
@@ -39,7 +40,7 @@ and distance to your destination.
 
 * **Functionality**
   
-  * N/A
+  * Share real-time location and route with other users.
 
 * **Persistent data**
   
@@ -48,8 +49,9 @@ and distance to your destination.
   * Save a history of searches.
     
 * **External services**
-  
-  * N/A
+
+  * [OpenStreetMap Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
+  * [OpenRouteService API](https://openrouteservice.org/dev/#/api-docs)
     
 ## Stretch goals/possible enhancements 
 
