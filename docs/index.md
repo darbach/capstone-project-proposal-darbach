@@ -27,7 +27,7 @@ and distance to your destination.
 
 * **Persistent data**
 
-  * N/A
+  * History of searches, matching table on the server for portability between devices.
     
 * **Device/external services**
 
@@ -47,6 +47,7 @@ and distance to your destination.
   * User profile.
   * Save favorite locations with a descriptive name and notes.
   * Save a history of searches.
+  * Location-share invitations between users
     
 * **External services**
 
